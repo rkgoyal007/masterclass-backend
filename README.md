@@ -1,1 +1,1 @@
-echo "# masterclass-backend"
+# masterclass-backend
